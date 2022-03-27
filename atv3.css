@@ -1,0 +1,30 @@
+b {
+    background: #808080;
+}
+.div_B {
+    background: white;
+    height: 500px;
+    width: 50%;
+    border: 10px dotted black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.filha1_divB {
+    background: yellow;
+    height: 50px;
+    width: 30%;
+}
+.filha2_divB {
+    background: rgb(214, 141, 4);
+    height: 100px;
+    width: 30%;
+}
+.filha3_divB {
+    background:rgb(33, 250, 13);
+    color: white;
+    font-size: 30px;
+    padding: 50px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
