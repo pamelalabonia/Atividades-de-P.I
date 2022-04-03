@@ -1,0 +1,18 @@
+.div_A {
+    background: rgb(235, 67, 235);
+    height: 250px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.filha1_div_A {
+    background: #ffc0cb;
+    height: 100%;
+    width: 250px;
+    border: 20px solid red;
+}
+.filha2_div_A {
+    background: aquamarine;
+    height: 88%;
+    width: 30%;
+}
